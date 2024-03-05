@@ -1,0 +1,28 @@
+{
+  "name": "@moncici/sleep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moncici007/sleep"
+  },
+  "website": "https://github.com/moncici007/sleep.git",
+  "keywords": [
+    "node",
+    "sleep"
+  ],
+  "author": "moncici007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moncici007/sleep/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/moncici007/sleep#readme"
+}
